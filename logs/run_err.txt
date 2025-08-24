@@ -1,0 +1,1 @@
+[INFO] Child terminated by signal 9
