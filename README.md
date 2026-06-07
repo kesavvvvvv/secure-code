@@ -328,7 +328,7 @@ Output: `logs/run_err.txt`
 
 ## License
 
-No license specified. Please add a license file if distributing this project.
+MIT
 
 ---
 
